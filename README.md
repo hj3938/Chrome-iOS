@@ -29,9 +29,9 @@ Follow the [official Chromium article](https://chromium.googlesource.com/chromiu
   ```
   
 ### Grabbing the repo
-You have two options: 
-  (1) git clone this repo directly, or 
-  (2) create + fetch chromium, and then git clone this repo in the iOS folder.
+You have two options:  
+&nbsp;&nbsp;(1) git clone this repo directly, or  
+&nbsp;&nbsp;r(2) create + fetch chromium, and then git clone this repo in the iOS folder.
 
 The second one is recommended, and is easily done:
 ```bash
